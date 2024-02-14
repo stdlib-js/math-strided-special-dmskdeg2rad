@@ -50,7 +50,7 @@ limitations under the License.
 To use in Observable,
 
 ```javascript
-dmskdeg2rad = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/math-strided-special-dmskdeg2rad@umd/browser.js' )
+dmskdeg2rad = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/math-strided-special-dmskdeg2rad@v0.2.0-umd/browser.js' )
 ```
 
 To vendor stdlib functionality and avoid installing dependency trees for Node.js, you can use the UMD server build:
@@ -62,7 +62,7 @@ var dmskdeg2rad = require( 'path/to/vendor/umd/math-strided-special-dmskdeg2rad/
 To include the bundle in a webpage,
 
 ```html
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/math-strided-special-dmskdeg2rad@umd/browser.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/math-strided-special-dmskdeg2rad@v0.2.0-umd/browser.js"></script>
 ```
 
 If no recognized module system is present, access bundle contents via the global scope:
@@ -194,7 +194,7 @@ dmskdeg2rad.ndarray( 3, x, 2, 1, m, 2, 1, y, -1, y.length-1 );
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/random-base-uniform@umd/browser.js"></script>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/array-float64@umd/browser.js"></script>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/array-uint8@umd/browser.js"></script>
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/math-strided-special-dmskdeg2rad@umd/browser.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/math-strided-special-dmskdeg2rad@v0.2.0-umd/browser.js"></script>
 <script type="text/javascript">
 (function () {
 
