@@ -48,7 +48,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import dmskdeg2rad from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-strided-special-dmskdeg2rad@deno/mod.js';
+import dmskdeg2rad from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-strided-special-dmskdeg2rad@v0.2.1-deno/mod.js';
 ```
 
 #### dmskdeg2rad( N, x, sx, m, sm, y, sy )
@@ -167,7 +167,7 @@ dmskdeg2rad.ndarray( 3, x, 2, 1, m, 2, 1, y, -1, y.length-1 );
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-uniform@deno/mod.js';
 import Float64Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-float64@deno/mod.js';
 import Uint8Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-uint8@deno/mod.js';
-import dmskdeg2rad from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-strided-special-dmskdeg2rad@deno/mod.js';
+import dmskdeg2rad from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-strided-special-dmskdeg2rad@v0.2.1-deno/mod.js';
 
 var x = new Float64Array( 10 );
 var m = new Uint8Array( 10 );
