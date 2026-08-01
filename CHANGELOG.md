@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-07-12)
+## Unreleased (2026-08-01)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`e8fac32`](https://github.com/stdlib-js/stdlib/commit/e8fac328731c2f7bb5b331edc9edf08048f67a18) - **docs:** update related packages sections [(#13820)](https://github.com/stdlib-js/stdlib/pull/13820) _(by stdlib-bot)_
 -   [`23d316f`](https://github.com/stdlib-js/stdlib/commit/23d316f6eda9201e0827d9f98ee523f9270d5939) - **bench:** refactor to use dynamic memory allocation in `maths/strided/special` [(#11697)](https://github.com/stdlib-js/stdlib/pull/11697) _(by Uday Kakade)_
 -   [`45ea471`](https://github.com/stdlib-js/stdlib/commit/45ea471c7617506879b6fdaea16a2ef6f851f62d) - **bench:** refactor to use string interpolation in `math/strided/special` [(#11363)](https://github.com/stdlib-js/stdlib/pull/11363) _(by Karan Anand)_
 -   [`cd99fef`](https://github.com/stdlib-js/stdlib/commit/cd99fef661e7a5f6e600ee81295ec4dbc8501187) - **docs:** fix C examples [(#11135)](https://github.com/stdlib-js/stdlib/pull/11135) _(by anee3)_
